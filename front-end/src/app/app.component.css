@@ -1,0 +1,21 @@
+div.main {
+  max-width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  border: 1px solid #c0c0c0;
+  padding: 30px;
+}
+
+div.end {
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+div.submit {
+  padding-top: 15px;
+}
+
+div.profile {
+  padding-top: 30px;
+}
